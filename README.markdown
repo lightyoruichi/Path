@@ -1,4 +1,4 @@
-Overpath: A wordpress theme with pjax
+Path: A WordPress theme that looks like Path
 =====================================
 
 This theme is built on the [HTML5 Boilerplate](http://html5boilerplate.com/) by Paul Irish and Divya Manian. 
@@ -9,7 +9,7 @@ Its design is based on the idea of Path, especially its web version. The comcept
 
 Demo
 ----
-My blog [Xiao Life Journal](http://xiaolife.com) is using this theme. As a testing ground for me, it can be broken at any time.
+http://blog.lightyoruichi.com
 
 Current State
 -------------
